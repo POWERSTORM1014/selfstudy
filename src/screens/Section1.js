@@ -63,7 +63,7 @@ export default function Section1() {
             />
           </View>
         </Swiper>
-        <Text>Self Study와 함께이기에 가능합니다!!!</Text>
+        <Text>Self Study와 함께이기에 가능합니다 !!!</Text>
       </View>
     </ImageBackground>
   )
